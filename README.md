@@ -77,6 +77,7 @@ flowchart TD
 - [Detailed 16-test checklist and observed evidence](docs/verification-and-test-results.md)
 - [Real screenshot names and portfolio captions](docs/screenshots.md)
 - [Source package and reproduction checklist](docs/source-and-reproduction.md)
+- [User guide (README to be uploaded)](user-guide/)
 
 ## Files
 
