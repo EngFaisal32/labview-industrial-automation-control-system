@@ -1,0 +1,8 @@
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
+logs/*.csv
+.env
+.env.*
+*.secret
